@@ -155,6 +155,10 @@ def run():
         if calc_dist(active_list)[1] < R and bootstrap:
             leader_id = calc_dist(active_list)[0]
             bootstrap = False
+            #######
+            #Uncomment this to change colour (I think)
+            #######
+            #traci.vehicle.setColor(leader_id, (250, 0, 0))
             print(leader_id)
             
         if not bootstrap:
@@ -172,9 +176,18 @@ def run():
                 if "up" in leader_id or "down" in leader_id:
                     leader_id = calc_dist(active_list,"UD")[0]
                     traci.trafficlight.setPhase("0", 0)
+                    #######
+                    #Uncomment this to change colour (I think)
+                    #######
+                    #traci.vehicle.setColor(leader_id, (250, 0, 0))
                 else:
                     leader_id = calc_dist(active_list,"LR")[0]
                     traci.trafficlight.setPhase("0", 1)
+                    #######
+                    #Uncomment this to change colour (I think)
+                    #######
+                    #traci.vehicle.setColor(leader_id, (250, 0, 0))
+
                 timeout = TIMEOUT
                 print(leader_id)
         '''
