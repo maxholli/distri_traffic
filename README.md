@@ -6,6 +6,6 @@ To run:
 `python runner.py`
 
 To do:
-*Run 1000 tests a gather average wait time.
-*Make a control case and run tests.
-*Have leader's color change for demo.
+ * Run 1000 tests a gather average wait time.
+ * Make a control case and run tests.
+ * Have leader's color change for demo.
