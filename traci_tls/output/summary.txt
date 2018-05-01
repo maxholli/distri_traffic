@@ -1,0 +1,5334 @@
+Loading configuration... done.
+***Starting server on port 45313 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45313 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50895 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:50895 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60456 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3755.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9643ms
+ Real time factor: 389.402
+ UPS: 13848.180027
+Vehicles: 
+ Inserted: 1299
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.80
+ WaitingTime: 5.68
+ TimeLoss: 26.56
+ DepartDelay: 2.51
+
+Could not connect to TraCI server at localhost:60456 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46366 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46366 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47105 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47105 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56910 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3761.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9673ms
+ Real time factor: 388.814
+ UPS: 13930.735036
+Vehicles: 
+ Inserted: 1306
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.18
+ WaitingTime: 6.37
+ TimeLoss: 26.94
+ DepartDelay: 2.47
+
+Could not connect to TraCI server at localhost:56910 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57035 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57035 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47417 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47417 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59525 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59525 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50650 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3735.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9907ms
+ Real time factor: 377.006
+ UPS: 13930.756031
+Vehicles: 
+ Inserted: 1325
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.16
+ WaitingTime: 7.00
+ TimeLoss: 27.92
+ DepartDelay: 2.50
+
+Could not connect to TraCI server at localhost:50650 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37145 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37145 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44331 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3728.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9936ms
+ Real time factor: 375.201
+ UPS: 13191.324477
+Vehicles: 
+ Inserted: 1276
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.72
+ WaitingTime: 5.82
+ TimeLoss: 26.47
+ DepartDelay: 2.08
+
+Could not connect to TraCI server at localhost:44331 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56060 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56060 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57813 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57813 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47224 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3762.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10258ms
+ Real time factor: 366.738
+ UPS: 13667.479041
+Vehicles: 
+ Inserted: 1354
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.55
+ WaitingTime: 6.16
+ TimeLoss: 27.32
+ DepartDelay: 2.54
+
+Could not connect to TraCI server at localhost:47224 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35011 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35011 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56996 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56996 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33590 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33590 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47468 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47468 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36560 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3745.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10872ms
+ Real time factor: 344.463
+ UPS: 13344.094923
+Vehicles: 
+ Inserted: 1394
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.07
+ WaitingTime: 6.56
+ TimeLoss: 27.83
+ DepartDelay: 2.78
+
+Could not connect to TraCI server at localhost:36560 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48981 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48981 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49226 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3763.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10083ms
+ Real time factor: 373.202
+ UPS: 13329.267083
+Vehicles: 
+ Inserted: 1301
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.30
+ WaitingTime: 6.09
+ TimeLoss: 27.07
+ DepartDelay: 2.38
+
+Could not connect to TraCI server at localhost:49226 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55414 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3758.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10386ms
+ Real time factor: 361.833
+ UPS: 13424.995186
+Vehicles: 
+ Inserted: 1342
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.90
+ WaitingTime: 6.64
+ TimeLoss: 27.66
+ DepartDelay: 2.87
+
+Could not connect to TraCI server at localhost:55414 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37583 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37583 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57419 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57419 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59015 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59015 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56962 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56962 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45146 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45146 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48717 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3758.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10608ms
+ Real time factor: 354.261
+ UPS: 13173.548265
+Vehicles: 
+ Inserted: 1349
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.59
+ WaitingTime: 6.37
+ TimeLoss: 27.35
+ DepartDelay: 2.49
+
+Could not connect to TraCI server at localhost:48717 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60115 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10625ms
+ Real time factor: 353.788
+ UPS: 13063.058824
+Vehicles: 
+ Inserted: 1346
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.12
+ WaitingTime: 5.96
+ TimeLoss: 26.87
+ DepartDelay: 2.75
+
+Could not connect to TraCI server at localhost:60115 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37935 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37935 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34966 ***
+Loading net-file from 'data/cross.net.xml'... done (4ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34966 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53023 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53023 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35294 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35294 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58095 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58095 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55700 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55700 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36322 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10389ms
+ Real time factor: 362.306
+ UPS: 13411.492925
+Vehicles: 
+ Inserted: 1351
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.13
+ WaitingTime: 5.93
+ TimeLoss: 26.89
+ DepartDelay: 2.62
+
+Could not connect to TraCI server at localhost:36322 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60094 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60094 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35926 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35926 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44314 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3751.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10815ms
+ Real time factor: 346.833
+ UPS: 12914.840499
+Vehicles: 
+ Inserted: 1342
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.08
+ WaitingTime: 6.55
+ TimeLoss: 27.84
+ DepartDelay: 2.61
+
+Could not connect to TraCI server at localhost:44314 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47939 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3739.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9899ms
+ Real time factor: 377.715
+ UPS: 12930.093949
+Vehicles: 
+ Inserted: 1261
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.50
+ WaitingTime: 4.75
+ TimeLoss: 25.27
+ DepartDelay: 2.16
+
+Could not connect to TraCI server at localhost:47939 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42049 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42049 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37397 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37397 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41076 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41076 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45565 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3726.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10137ms
+ Real time factor: 367.564
+ UPS: 12736.608464
+Vehicles: 
+ Inserted: 1274
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.34
+ WaitingTime: 4.64
+ TimeLoss: 25.11
+ DepartDelay: 2.30
+
+Could not connect to TraCI server at localhost:45565 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52213 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3735.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10796ms
+ Real time factor: 345.961
+ UPS: 13316.042979
+Vehicles: 
+ Inserted: 1366
+ Running: 0
+ Waiting: 0
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 105.24
+ WaitingTime: 7.47
+ TimeLoss: 29.01
+ DepartDelay: 2.50
+
+Could not connect to TraCI server at localhost:52213 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51897 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51897 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58109 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58109 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35046 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35046 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54779 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3761.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10424ms
+ Real time factor: 360.802
+ UPS: 12803.818112
+Vehicles: 
+ Inserted: 1302
+ Running: 0
+ Waiting: 0
+Emergency Stops: 5
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.51
+ WaitingTime: 5.58
+ TimeLoss: 26.27
+ DepartDelay: 2.50
+
+Could not connect to TraCI server at localhost:54779 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51881 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3739.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 11058ms
+ Real time factor: 338.126
+ UPS: 12306.022789
+Vehicles: 
+ Inserted: 1318
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.25
+ WaitingTime: 6.10
+ TimeLoss: 27.02
+ DepartDelay: 2.18
+
+Could not connect to TraCI server at localhost:51881 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39448 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3756.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10372ms
+ Real time factor: 362.129
+ UPS: 12122.927111
+Vehicles: 
+ Inserted: 1227
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.48
+ WaitingTime: 5.58
+ TimeLoss: 26.23
+ DepartDelay: 1.85
+
+Could not connect to TraCI server at localhost:39448 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35875 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3753.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10734ms
+ Real time factor: 349.637
+ UPS: 12507.359791
+Vehicles: 
+ Inserted: 1306
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.80
+ WaitingTime: 5.82
+ TimeLoss: 26.57
+ DepartDelay: 2.49
+
+Could not connect to TraCI server at localhost:35875 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37293 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37293 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34448 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34448 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44445 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44445 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44224 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44224 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35857 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3756.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9596ms
+ Real time factor: 391.413
+ UPS: 13898.916215
+Vehicles: 
+ Inserted: 1310
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.81
+ WaitingTime: 4.90
+ TimeLoss: 25.57
+ DepartDelay: 2.31
+
+Could not connect to TraCI server at localhost:35857 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36166 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3737.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9891ms
+ Real time factor: 377.818
+ UPS: 13252.451724
+Vehicles: 
+ Inserted: 1299
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 100.91
+ WaitingTime: 4.28
+ TimeLoss: 24.67
+ DepartDelay: 2.29
+
+Could not connect to TraCI server at localhost:36166 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33133 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9812ms
+ Real time factor: 383.612
+ UPS: 13229.209132
+Vehicles: 
+ Inserted: 1280
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.41
+ WaitingTime: 4.83
+ TimeLoss: 25.18
+ DepartDelay: 2.66
+
+Could not connect to TraCI server at localhost:33133 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40242 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40242 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35516 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35516 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58538 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58538 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53819 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53819 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49554 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49554 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50654 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10638ms
+ Real time factor: 353.356
+ UPS: 13218.462117
+Vehicles: 
+ Inserted: 1351
+ Running: 0
+ Waiting: 0
+Emergency Stops: 8
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.08
+ WaitingTime: 6.88
+ TimeLoss: 27.85
+ DepartDelay: 2.69
+
+Could not connect to TraCI server at localhost:50654 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49991 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49991 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58991 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58991 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47521 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47521 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33548 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33548 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34678 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34678 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53341 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53341 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43069 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43069 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40457 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40457 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60673 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60673 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45029 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45029 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59812 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59812 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56300 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3753.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9798ms
+ Real time factor: 383.037
+ UPS: 12472.137171
+Vehicles: 
+ Inserted: 1208
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.16
+ WaitingTime: 4.82
+ TimeLoss: 24.91
+ DepartDelay: 2.03
+
+Could not connect to TraCI server at localhost:56300 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46346 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46346 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59561 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59561 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44798 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44798 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39685 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39685 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50630 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3762.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10801ms
+ Real time factor: 348.301
+ UPS: 12788.908434
+Vehicles: 
+ Inserted: 1335
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.47
+ WaitingTime: 6.25
+ TimeLoss: 27.23
+ DepartDelay: 2.22
+
+Could not connect to TraCI server at localhost:50630 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60588 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60588 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49657 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49657 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47567 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3733.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10165ms
+ Real time factor: 367.241
+ UPS: 13201.475652
+Vehicles: 
+ Inserted: 1304
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.91
+ WaitingTime: 6.03
+ TimeLoss: 26.69
+ DepartDelay: 2.14
+
+Could not connect to TraCI server at localhost:47567 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56195 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3757.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10924ms
+ Real time factor: 343.922
+ UPS: 12647.839619
+Vehicles: 
+ Inserted: 1334
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.57
+ WaitingTime: 6.39
+ TimeLoss: 27.32
+ DepartDelay: 2.54
+
+Could not connect to TraCI server at localhost:56195 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42181 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42181 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45663 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3758.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10878ms
+ Real time factor: 345.468
+ UPS: 12464.607465
+Vehicles: 
+ Inserted: 1319
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.80
+ WaitingTime: 5.57
+ TimeLoss: 26.56
+ DepartDelay: 3.05
+
+Could not connect to TraCI server at localhost:45663 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55507 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55507 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41918 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3739.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 11522ms
+ Real time factor: 324.51
+ UPS: 13010.848811
+Vehicles: 
+ Inserted: 1408
+ Running: 0
+ Waiting: 0
+Emergency Stops: 5
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 106.47
+ WaitingTime: 8.55
+ TimeLoss: 30.22
+ DepartDelay: 3.01
+
+Could not connect to TraCI server at localhost:41918 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59030 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3798.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10433ms
+ Real time factor: 364.037
+ UPS: 12636.921307
+Vehicles: 
+ Inserted: 1281
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.92
+ WaitingTime: 5.94
+ TimeLoss: 26.67
+ DepartDelay: 2.46
+
+Could not connect to TraCI server at localhost:59030 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36777 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36777 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44162 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44162 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35172 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35172 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57026 ***
+Loading net-file from 'data/cross.net.xml'... done (3ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57026 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56873 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3766.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10588ms
+ Real time factor: 355.686
+ UPS: 12497.355497
+Vehicles: 
+ Inserted: 1290
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.58
+ WaitingTime: 5.57
+ TimeLoss: 26.35
+ DepartDelay: 2.16
+
+Could not connect to TraCI server at localhost:56873 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33751 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33751 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56544 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56544 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39104 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39104 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48835 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48835 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54342 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54342 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57498 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57498 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57164 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3751.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10005ms
+ Real time factor: 374.913
+ UPS: 12845.477261
+Vehicles: 
+ Inserted: 1259
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.08
+ WaitingTime: 5.37
+ TimeLoss: 25.84
+ DepartDelay: 1.93
+
+Could not connect to TraCI server at localhost:57164 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 32889 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:32889 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41046 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41046 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58709 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58709 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45860 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45860 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51738 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3738.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10627ms
+ Real time factor: 351.746
+ UPS: 12546.156018
+Vehicles: 
+ Inserted: 1301
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.48
+ WaitingTime: 5.53
+ TimeLoss: 26.25
+ DepartDelay: 2.09
+
+Could not connect to TraCI server at localhost:51738 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35383 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3760.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10161ms
+ Real time factor: 370.042
+ UPS: 13367.483515
+Vehicles: 
+ Inserted: 1313
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.45
+ WaitingTime: 6.12
+ TimeLoss: 27.21
+ DepartDelay: 2.89
+
+Could not connect to TraCI server at localhost:35383 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38222 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38222 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38560 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38560 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41623 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41623 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39198 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39198 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60299 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10488ms
+ Real time factor: 358.41
+ UPS: 12876.048818
+Vehicles: 
+ Inserted: 1310
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.09
+ WaitingTime: 5.96
+ TimeLoss: 26.85
+ DepartDelay: 2.28
+
+Could not connect to TraCI server at localhost:60299 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48506 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48506 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43903 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43903 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37509 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37509 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56063 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56063 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45817 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45817 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34247 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34247 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53695 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3745.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10200ms
+ Real time factor: 367.157
+ UPS: 13729.607843
+Vehicles: 
+ Inserted: 1354
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.43
+ WaitingTime: 6.20
+ TimeLoss: 27.19
+ DepartDelay: 2.42
+
+Could not connect to TraCI server at localhost:53695 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48391 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48391 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57791 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3726.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9537ms
+ Real time factor: 390.689
+ UPS: 13597.567369
+Vehicles: 
+ Inserted: 1266
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.43
+ WaitingTime: 5.40
+ TimeLoss: 26.19
+ DepartDelay: 2.60
+
+Could not connect to TraCI server at localhost:57791 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41757 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41757 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44784 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44784 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44051 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44051 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42465 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42465 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33245 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33245 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44885 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44885 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56587 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3718.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10354ms
+ Real time factor: 359.088
+ UPS: 12943.306935
+Vehicles: 
+ Inserted: 1291
+ Running: 0
+ Waiting: 0
+Teleports: 1 (Collisions: 1)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.81
+ WaitingTime: 6.90
+ TimeLoss: 27.57
+ DepartDelay: 2.24
+
+Could not connect to TraCI server at localhost:56587 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42623 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42623 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40109 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40109 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41244 ***
+Loading net-file from 'data/cross.net.xml'... done (3ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3763.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9902ms
+ Real time factor: 380.024
+ UPS: 13943.748738
+Vehicles: 
+ Inserted: 1329
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.89
+ WaitingTime: 6.56
+ TimeLoss: 27.64
+ DepartDelay: 2.38
+
+Could not connect to TraCI server at localhost:41244 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42491 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3799.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10055ms
+ Real time factor: 377.822
+ UPS: 13948.184983
+Vehicles: 
+ Inserted: 1356
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.43
+ WaitingTime: 6.38
+ TimeLoss: 27.19
+ DepartDelay: 2.95
+
+Could not connect to TraCI server at localhost:42491 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49883 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49883 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59473 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9967ms
+ Real time factor: 377.646
+ UPS: 13415.772048
+Vehicles: 
+ Inserted: 1309
+ Running: 0
+ Waiting: 0
+Emergency Stops: 5
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.15
+ WaitingTime: 5.25
+ TimeLoss: 25.90
+ DepartDelay: 2.45
+
+Could not connect to TraCI server at localhost:59473 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53051 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53051 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38768 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38768 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39804 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39804 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38904 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38904 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41516 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41516 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51722 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3731.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9964ms
+ Real time factor: 374.448
+ UPS: 13116.419109
+Vehicles: 
+ Inserted: 1281
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.02
+ WaitingTime: 5.21
+ TimeLoss: 25.77
+ DepartDelay: 2.25
+
+Could not connect to TraCI server at localhost:51722 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33645 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33645 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48175 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48175 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44673 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44673 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50360 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:50360 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60701 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60701 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47164 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47164 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33997 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33997 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43815 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43815 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58604 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58604 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52900 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3741.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10324ms
+ Real time factor: 362.36
+ UPS: 13103.641999
+Vehicles: 
+ Inserted: 1314
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.95
+ WaitingTime: 5.73
+ TimeLoss: 26.71
+ DepartDelay: 2.69
+
+Could not connect to TraCI server at localhost:52900 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58887 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3758.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9798ms
+ Real time factor: 383.548
+ UPS: 13796.897326
+Vehicles: 
+ Inserted: 1315
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.80
+ WaitingTime: 5.87
+ TimeLoss: 26.56
+ DepartDelay: 2.47
+
+Could not connect to TraCI server at localhost:58887 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36488 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36488 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55195 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55195 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51462 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51462 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35741 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35741 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37735 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37735 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49248 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49248 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52288 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10634ms
+ Real time factor: 353.489
+ UPS: 12699.548618
+Vehicles: 
+ Inserted: 1309
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.17
+ WaitingTime: 6.19
+ TimeLoss: 26.93
+ DepartDelay: 2.24
+
+Could not connect to TraCI server at localhost:52288 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44874 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44874 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33588 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10739ms
+ Real time factor: 350.498
+ UPS: 12943.197691
+Vehicles: 
+ Inserted: 1334
+ Running: 0
+ Waiting: 0
+Emergency Stops: 8
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.20
+ WaitingTime: 7.05
+ TimeLoss: 27.96
+ DepartDelay: 2.27
+
+Could not connect to TraCI server at localhost:33588 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49002 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49002 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49394 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49394 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42174 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42174 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58835 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58835 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37766 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37766 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33550 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3769.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10090ms
+ Real time factor: 373.538
+ UPS: 13872.447968
+Vehicles: 
+ Inserted: 1344
+ Running: 0
+ Waiting: 0
+Emergency Stops: 5
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.15
+ WaitingTime: 6.88
+ TimeLoss: 27.90
+ DepartDelay: 2.39
+
+Could not connect to TraCI server at localhost:33550 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35818 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35818 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53148 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53148 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48949 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48949 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36117 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36117 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35484 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35484 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59583 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3814.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9510ms
+ Real time factor: 401.052
+ UPS: 14115.983176
+Vehicles: 
+ Inserted: 1307
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.71
+ WaitingTime: 5.74
+ TimeLoss: 26.48
+ DepartDelay: 2.48
+
+Could not connect to TraCI server at localhost:59583 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55865 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3755.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9569ms
+ Real time factor: 392.413
+ UPS: 14116.417598
+Vehicles: 
+ Inserted: 1316
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.64
+ WaitingTime: 5.89
+ TimeLoss: 26.40
+ DepartDelay: 2.59
+
+Could not connect to TraCI server at localhost:55865 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60288 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60288 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38830 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3728.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10904ms
+ Real time factor: 341.893
+ UPS: 12718.360235
+Vehicles: 
+ Inserted: 1344
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.19
+ WaitingTime: 5.96
+ TimeLoss: 26.95
+ DepartDelay: 2.36
+
+Could not connect to TraCI server at localhost:38830 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43250 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43250 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34620 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3747.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 8984ms
+ Real time factor: 417.075
+ UPS: 13948.575245
+Vehicles: 
+ Inserted: 1227
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.13
+ WaitingTime: 5.55
+ TimeLoss: 25.89
+ DepartDelay: 1.95
+
+Could not connect to TraCI server at localhost:34620 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47636 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3750.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 11151ms
+ Real time factor: 336.293
+ UPS: 13153.170119
+Vehicles: 
+ Inserted: 1405
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.39
+ WaitingTime: 6.75
+ TimeLoss: 28.15
+ DepartDelay: 2.77
+
+Could not connect to TraCI server at localhost:47636 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57600 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57600 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46592 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46592 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48602 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48602 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36534 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3766.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9582ms
+ Real time factor: 393.029
+ UPS: 14038.822793
+Vehicles: 
+ Inserted: 1311
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.61
+ WaitingTime: 5.75
+ TimeLoss: 26.38
+ DepartDelay: 2.35
+
+Could not connect to TraCI server at localhost:36534 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36040 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36040 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57894 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57894 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55143 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3761.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10626ms
+ Real time factor: 353.943
+ UPS: 13068.511199
+Vehicles: 
+ Inserted: 1341
+ Running: 0
+ Waiting: 0
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.55
+ WaitingTime: 6.42
+ TimeLoss: 27.31
+ DepartDelay: 2.51
+
+Could not connect to TraCI server at localhost:55143 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54913 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54913 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44968 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44968 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46125 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46125 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48063 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48063 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42179 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42179 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56492 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56492 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37377 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37377 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60291 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60291 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43400 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43400 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33797 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33797 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43124 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3755.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10219ms
+ Real time factor: 367.453
+ UPS: 12956.453665
+Vehicles: 
+ Inserted: 1289
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.72
+ WaitingTime: 5.60
+ TimeLoss: 26.47
+ DepartDelay: 2.28
+
+Could not connect to TraCI server at localhost:43124 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56149 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56149 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60519 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60519 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42836 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42836 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51009 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51009 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54971 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54971 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38261 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38261 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35990 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3756.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10423ms
+ Real time factor: 360.357
+ UPS: 13032.716109
+Vehicles: 
+ Inserted: 1322
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.75
+ WaitingTime: 5.69
+ TimeLoss: 26.53
+ DepartDelay: 2.67
+
+Could not connect to TraCI server at localhost:35990 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59653 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59653 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35995 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35995 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51543 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51543 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45980 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45980 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50166 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:50166 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36042 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36042 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55458 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55458 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57688 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9647ms
+ Real time factor: 389.655
+ UPS: 13383.020628
+Vehicles: 
+ Inserted: 1256
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.79
+ WaitingTime: 5.85
+ TimeLoss: 26.55
+ DepartDelay: 2.24
+
+Could not connect to TraCI server at localhost:57688 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55738 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55738 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49433 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49433 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42546 ***
+Loading net-file from 'data/cross.net.xml'... done (3ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42546 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48111 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48111 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56721 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56721 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44271 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44271 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37980 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37980 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50158 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:50158 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45067 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45067 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42186 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42186 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49694 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49694 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54730 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54730 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37685 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37685 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41776 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9496ms
+ Real time factor: 396.377
+ UPS: 13569.608256
+Vehicles: 
+ Inserted: 1270
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.46
+ WaitingTime: 5.00
+ TimeLoss: 25.22
+ DepartDelay: 2.36
+
+Could not connect to TraCI server at localhost:41776 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51603 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51603 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50811 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3757.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9928ms
+ Real time factor: 378.425
+ UPS: 13609.991942
+Vehicles: 
+ Inserted: 1310
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.15
+ WaitingTime: 6.11
+ TimeLoss: 26.91
+ DepartDelay: 2.53
+
+Could not connect to TraCI server at localhost:50811 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33749 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33749 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53152 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53152 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51678 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3760.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10125ms
+ Real time factor: 371.358
+ UPS: 13161.382716
+Vehicles: 
+ Inserted: 1305
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.11
+ WaitingTime: 5.14
+ TimeLoss: 25.88
+ DepartDelay: 2.37
+
+Could not connect to TraCI server at localhost:51678 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56527 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56527 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33519 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3723.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10447ms
+ Real time factor: 356.37
+ UPS: 12464.630995
+Vehicles: 
+ Inserted: 1267
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.78
+ WaitingTime: 5.79
+ TimeLoss: 26.53
+ DepartDelay: 2.43
+
+Could not connect to TraCI server at localhost:33519 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48324 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48324 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43089 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43089 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35072 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35072 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46888 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3766.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10197ms
+ Real time factor: 369.324
+ UPS: 12964.793567
+Vehicles: 
+ Inserted: 1300
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.69
+ WaitingTime: 4.75
+ TimeLoss: 25.43
+ DepartDelay: 2.33
+
+Could not connect to TraCI server at localhost:46888 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51105 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51105 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59881 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59881 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43857 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43857 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43218 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43218 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37481 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37481 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41481 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41481 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35413 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35413 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56468 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56468 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46320 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46320 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35109 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35109 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58954 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58954 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43656 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3755.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10577ms
+ Real time factor: 355.016
+ UPS: 13084.333932
+Vehicles: 
+ Inserted: 1346
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.82
+ WaitingTime: 5.75
+ TimeLoss: 26.57
+ DepartDelay: 2.46
+
+Could not connect to TraCI server at localhost:43656 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53162 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53162 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56991 ***
+Loading net-file from 'data/cross.net.xml'... done (3ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3748.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9450ms
+ Real time factor: 396.614
+ UPS: 14607.195767
+Vehicles: 
+ Inserted: 1337
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.24
+ WaitingTime: 5.93
+ TimeLoss: 27.01
+ DepartDelay: 2.47
+
+Could not connect to TraCI server at localhost:56991 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49972 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49972 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34026 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34026 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40125 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40125 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45058 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45058 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52302 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9888ms
+ Real time factor: 380.158
+ UPS: 13799.555016
+Vehicles: 
+ Inserted: 1318
+ Running: 0
+ Waiting: 0
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.53
+ WaitingTime: 6.28
+ TimeLoss: 27.29
+ DepartDelay: 2.41
+
+Could not connect to TraCI server at localhost:52302 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37369 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37369 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38748 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3760.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9988ms
+ Real time factor: 376.452
+ UPS: 13650.280336
+Vehicles: 
+ Inserted: 1309
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.16
+ WaitingTime: 6.89
+ TimeLoss: 27.91
+ DepartDelay: 2.45
+
+Could not connect to TraCI server at localhost:38748 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43465 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3757.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10022ms
+ Real time factor: 374.875
+ UPS: 13385.452006
+Vehicles: 
+ Inserted: 1307
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.64
+ WaitingTime: 5.54
+ TimeLoss: 26.40
+ DepartDelay: 2.33
+
+Could not connect to TraCI server at localhost:43465 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41200 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41200 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34767 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34767 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45891 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3766.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10579ms
+ Real time factor: 355.988
+ UPS: 13280.839399
+Vehicles: 
+ Inserted: 1368
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.70
+ WaitingTime: 5.55
+ TimeLoss: 26.47
+ DepartDelay: 2.55
+
+Could not connect to TraCI server at localhost:45891 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47270 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47270 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49455 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3758.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10378ms
+ Real time factor: 362.112
+ UPS: 13398.631721
+Vehicles: 
+ Inserted: 1336
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.08
+ WaitingTime: 6.84
+ TimeLoss: 27.84
+ DepartDelay: 2.64
+
+Could not connect to TraCI server at localhost:49455 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34878 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34878 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41354 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41354 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51354 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51354 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55707 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55707 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57976 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57976 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45875 ***
+Loading net-file from 'data/cross.net.xml'... done (3ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45875 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38741 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3767.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10006ms
+ Real time factor: 376.474
+ UPS: 13638.716770
+Vehicles: 
+ Inserted: 1326
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.92
+ WaitingTime: 5.87
+ TimeLoss: 26.68
+ DepartDelay: 2.64
+
+Could not connect to TraCI server at localhost:38741 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42017 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3749.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10128ms
+ Real time factor: 370.162
+ UPS: 13254.344392
+Vehicles: 
+ Inserted: 1315
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.08
+ WaitingTime: 5.13
+ TimeLoss: 25.84
+ DepartDelay: 2.11
+
+Could not connect to TraCI server at localhost:42017 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53483 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3754.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10350ms
+ Real time factor: 362.705
+ UPS: 13372.946860
+Vehicles: 
+ Inserted: 1332
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.91
+ WaitingTime: 6.33
+ TimeLoss: 27.67
+ DepartDelay: 2.74
+
+Could not connect to TraCI server at localhost:53483 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48087 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48087 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58607 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58607 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45175 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45175 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52874 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52874 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35894 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35894 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35021 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35021 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52391 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52391 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40203 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40203 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39079 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39079 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38219 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38219 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52658 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52658 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48044 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48044 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52371 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52371 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48435 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48435 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47836 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47836 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50566 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:50566 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58126 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58126 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34305 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34305 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47228 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:47228 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44704 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3760.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9481ms
+ Real time factor: 396.583
+ UPS: 13835.038498
+Vehicles: 
+ Inserted: 1288
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.84
+ WaitingTime: 5.07
+ TimeLoss: 25.60
+ DepartDelay: 2.15
+
+Could not connect to TraCI server at localhost:44704 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42513 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:42513 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 35658 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:35658 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42753 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3757.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9587ms
+ Real time factor: 391.885
+ UPS: 13552.414728
+Vehicles: 
+ Inserted: 1290
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 100.72
+ WaitingTime: 4.02
+ TimeLoss: 24.48
+ DepartDelay: 1.94
+
+Could not connect to TraCI server at localhost:42753 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39118 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3741.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10073ms
+ Real time factor: 371.389
+ UPS: 13512.359774
+Vehicles: 
+ Inserted: 1320
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.11
+ WaitingTime: 6.06
+ TimeLoss: 26.86
+ DepartDelay: 2.58
+
+Could not connect to TraCI server at localhost:39118 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60651 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:60651 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43962 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9326ms
+ Real time factor: 403.603
+ UPS: 13899.206519
+Vehicles: 
+ Inserted: 1271
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.99
+ WaitingTime: 5.07
+ TimeLoss: 25.75
+ DepartDelay: 2.36
+
+Could not connect to TraCI server at localhost:43962 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44232 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44232 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36838 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36838 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33678 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33678 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49012 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3764.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10695ms
+ Real time factor: 351.94
+ UPS: 13681.252922
+Vehicles: 
+ Inserted: 1381
+ Running: 0
+ Waiting: 0
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 105.95
+ WaitingTime: 8.08
+ TimeLoss: 29.72
+ DepartDelay: 2.92
+
+Could not connect to TraCI server at localhost:49012 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53244 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:53244 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54014 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54014 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41736 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41736 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52735 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52735 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34748 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34748 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56394 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:56394 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45657 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3736.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10333ms
+ Real time factor: 361.56
+ UPS: 13319.655473
+Vehicles: 
+ Inserted: 1323
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.03
+ WaitingTime: 6.85
+ TimeLoss: 27.79
+ DepartDelay: 2.71
+
+Could not connect to TraCI server at localhost:45657 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34460 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34460 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36355 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36355 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44487 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44487 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51267 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51267 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 48328 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:48328 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40606 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40606 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34847 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34847 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33058 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33058 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55759 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55759 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 51591 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:51591 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45022 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45022 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52854 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52854 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54403 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:54403 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33521 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33521 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33140 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3748.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10851ms
+ Real time factor: 345.406
+ UPS: 12854.483458
+Vehicles: 
+ Inserted: 1332
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.72
+ WaitingTime: 7.50
+ TimeLoss: 28.48
+ DepartDelay: 2.87
+
+Could not connect to TraCI server at localhost:33140 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43864 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43864 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55793 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55793 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53968 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3769.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9854ms
+ Real time factor: 382.484
+ UPS: 13544.956363
+Vehicles: 
+ Inserted: 1305
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.28
+ WaitingTime: 5.28
+ TimeLoss: 26.03
+ DepartDelay: 2.11
+
+Could not connect to TraCI server at localhost:53968 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49861 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3751.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9294ms
+ Real time factor: 403.594
+ UPS: 14223.369916
+Vehicles: 
+ Inserted: 1286
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.79
+ WaitingTime: 5.77
+ TimeLoss: 26.56
+ DepartDelay: 2.16
+
+Could not connect to TraCI server at localhost:49861 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39672 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39672 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39267 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39267 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59040 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59040 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56431 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3748.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9730ms
+ Real time factor: 385.2
+ UPS: 13794.039054
+Vehicles: 
+ Inserted: 1309
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.53
+ WaitingTime: 5.70
+ TimeLoss: 26.29
+ DepartDelay: 2.11
+
+Could not connect to TraCI server at localhost:56431 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 41066 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:41066 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49274 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:49274 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36285 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36285 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42456 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3747.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9326ms
+ Real time factor: 401.78
+ UPS: 13742.118808
+Vehicles: 
+ Inserted: 1264
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.39
+ WaitingTime: 5.08
+ TimeLoss: 25.14
+ DepartDelay: 2.41
+
+Could not connect to TraCI server at localhost:42456 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49385 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3750.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10204ms
+ Real time factor: 367.503
+ UPS: 12507.252058
+Vehicles: 
+ Inserted: 1257
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.53
+ WaitingTime: 5.00
+ TimeLoss: 25.29
+ DepartDelay: 2.21
+
+Could not connect to TraCI server at localhost:49385 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40248 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40248 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46793 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3766.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10675ms
+ Real time factor: 352.787
+ UPS: 12990.163934
+Vehicles: 
+ Inserted: 1344
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.18
+ WaitingTime: 5.86
+ TimeLoss: 26.94
+ DepartDelay: 2.44
+
+Could not connect to TraCI server at localhost:46793 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34271 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3761.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10028ms
+ Real time factor: 375.05
+ UPS: 13134.722776
+Vehicles: 
+ Inserted: 1283
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.66
+ WaitingTime: 5.59
+ TimeLoss: 26.42
+ DepartDelay: 2.33
+
+Could not connect to TraCI server at localhost:34271 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 36151 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:36151 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60987 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3769.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9851ms
+ Real time factor: 382.601
+ UPS: 13882.956045
+Vehicles: 
+ Inserted: 1314
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.08
+ WaitingTime: 6.64
+ TimeLoss: 27.84
+ DepartDelay: 2.60
+
+Could not connect to TraCI server at localhost:60987 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43576 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:43576 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 56397 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3762.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9686ms
+ Real time factor: 388.396
+ UPS: 13322.011150
+Vehicles: 
+ Inserted: 1274
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.28
+ WaitingTime: 4.78
+ TimeLoss: 25.04
+ DepartDelay: 2.16
+
+Could not connect to TraCI server at localhost:56397 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58498 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58498 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55640 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:55640 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55785 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3762.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9984ms
+ Real time factor: 376.803
+ UPS: 13131.911058
+Vehicles: 
+ Inserted: 1259
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 104.14
+ WaitingTime: 7.09
+ TimeLoss: 27.89
+ DepartDelay: 2.17
+
+Could not connect to TraCI server at localhost:55785 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46539 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:46539 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 52042 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:52042 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 34519 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:34519 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57844 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:57844 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 50199 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3759.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10170ms
+ Real time factor: 369.617
+ UPS: 13891.642085
+Vehicles: 
+ Inserted: 1363
+ Running: 0
+ Waiting: 0
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 103.65
+ WaitingTime: 6.35
+ TimeLoss: 27.41
+ DepartDelay: 2.27
+
+Could not connect to TraCI server at localhost:50199 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59092 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:59092 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42882 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3760.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9979ms
+ Real time factor: 376.791
+ UPS: 13425.894378
+Vehicles: 
+ Inserted: 1315
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.88
+ WaitingTime: 4.88
+ TimeLoss: 25.65
+ DepartDelay: 2.61
+
+Could not connect to TraCI server at localhost:42882 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38943 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38943 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38812 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38812 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38340 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38340 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38510 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:38510 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49858 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3750.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10735ms
+ Real time factor: 349.325
+ UPS: 12896.786213
+Vehicles: 
+ Inserted: 1348
+ Running: 0
+ Waiting: 0
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.71
+ WaitingTime: 5.41
+ TimeLoss: 26.47
+ DepartDelay: 2.74
+
+Could not connect to TraCI server at localhost:49858 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44486 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:44486 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40001 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40001 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39348 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39348 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54065 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3721.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10649ms
+ Real time factor: 349.422
+ UPS: 12556.202460
+Vehicles: 
+ Inserted: 1317
+ Running: 0
+ Waiting: 0
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 101.53
+ WaitingTime: 4.69
+ TimeLoss: 25.29
+ DepartDelay: 2.52
+
+Could not connect to TraCI server at localhost:54065 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33104 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:33104 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49100 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3748.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 10108ms
+ Real time factor: 370.795
+ UPS: 13209.042343
+Vehicles: 
+ Inserted: 1302
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.55
+ WaitingTime: 5.56
+ TimeLoss: 26.30
+ DepartDelay: 2.50
+
+Could not connect to TraCI server at localhost:49100 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39714 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:39714 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 40664 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:40664 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58480 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58480 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45448 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:45448 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37153 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37153 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58956 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:58956 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37887 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Could not connect to TraCI server at localhost:37887 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33491 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3762.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 9779ms
+ Real time factor: 384.702
+ UPS: 13142.959403
+Vehicles: 
+ Inserted: 1259
+ Running: 0
+ Waiting: 0
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 102.08
+ WaitingTime: 5.35
+ TimeLoss: 25.84
+ DepartDelay: 2.35
+
+Could not connect to TraCI server at localhost:33491 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 44223 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1016ms
+ Real time factor: 3668.31
+ UPS: 152885.826772
+Vehicles: 
+ Inserted: 1358
+ Running: 0
+ Waiting: 0
+Emergency Stops: 15
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.38
+ WaitingTime: 15.30
+ TimeLoss: 38.15
+ DepartDelay: 2.51
+
+Could not connect to TraCI server at localhost:44223 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47377 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 969ms
+ Real time factor: 3844.17
+ UPS: 154798.761610
+Vehicles: 
+ Inserted: 1308
+ Running: 0
+ Waiting: 0
+Emergency Stops: 20
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.68
+ WaitingTime: 15.55
+ TimeLoss: 38.44
+ DepartDelay: 2.69
+
+Could not connect to TraCI server at localhost:47377 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 54114 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 940ms
+ Real time factor: 3964.89
+ UPS: 158785.106383
+Vehicles: 
+ Inserted: 1291
+ Running: 0
+ Waiting: 0
+Emergency Stops: 15
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.61
+ WaitingTime: 16.16
+ TimeLoss: 39.38
+ DepartDelay: 2.30
+
+Could not connect to TraCI server at localhost:54114 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38564 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 976ms
+ Real time factor: 3816.6
+ UPS: 149688.524590
+Vehicles: 
+ Inserted: 1283
+ Running: 0
+ Waiting: 0
+Emergency Stops: 19
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 113.87
+ WaitingTime: 14.89
+ TimeLoss: 37.62
+ DepartDelay: 2.31
+
+Could not connect to TraCI server at localhost:38564 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 53269 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3730.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1015ms
+ Real time factor: 3674.88
+ UPS: 154052.216749
+Vehicles: 
+ Inserted: 1357
+ Running: 0
+ Waiting: 0
+Emergency Stops: 18
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.23
+ WaitingTime: 15.78
+ TimeLoss: 38.99
+ DepartDelay: 2.66
+
+Could not connect to TraCI server at localhost:53269 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47539 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3726.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1039ms
+ Real time factor: 3586.14
+ UPS: 150556.304139
+Vehicles: 
+ Inserted: 1361
+ Running: 0
+ Waiting: 0
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.94
+ WaitingTime: 15.33
+ TimeLoss: 38.69
+ DepartDelay: 3.12
+
+Could not connect to TraCI server at localhost:47539 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 60517 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 928ms
+ Real time factor: 4014.01
+ UPS: 158127.155172
+Vehicles: 
+ Inserted: 1280
+ Running: 0
+ Waiting: 0
+Emergency Stops: 15
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.64
+ WaitingTime: 15.49
+ TimeLoss: 38.42
+ DepartDelay: 2.25
+
+Could not connect to TraCI server at localhost:60517 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 47502 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 968ms
+ Real time factor: 3850.21
+ UPS: 154985.537190
+Vehicles: 
+ Inserted: 1300
+ Running: 0
+ Waiting: 0
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.40
+ WaitingTime: 15.98
+ TimeLoss: 39.16
+ DepartDelay: 2.33
+
+Could not connect to TraCI server at localhost:47502 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 49431 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3729.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 960ms
+ Real time factor: 3884.38
+ UPS: 158766.666667
+Vehicles: 
+ Inserted: 1331
+ Running: 0
+ Waiting: 0
+Emergency Stops: 22
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.51
+ WaitingTime: 15.31
+ TimeLoss: 38.26
+ DepartDelay: 2.56
+
+Could not connect to TraCI server at localhost:49431 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 38539 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3731.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 981ms
+ Real time factor: 3803.26
+ UPS: 154289.500510
+Vehicles: 
+ Inserted: 1314
+ Running: 0
+ Waiting: 0
+Emergency Stops: 13
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.19
+ WaitingTime: 15.84
+ TimeLoss: 38.95
+ DepartDelay: 2.58
+
+Could not connect to TraCI server at localhost:38539 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58061 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 968ms
+ Real time factor: 3850.21
+ UPS: 153745.867769
+Vehicles: 
+ Inserted: 1293
+ Running: 0
+ Waiting: 0
+Emergency Stops: 19
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.10
+ WaitingTime: 15.82
+ TimeLoss: 38.87
+ DepartDelay: 2.72
+
+Could not connect to TraCI server at localhost:58061 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43350 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 986ms
+ Real time factor: 3779.92
+ UPS: 153230.223124
+Vehicles: 
+ Inserted: 1337
+ Running: 0
+ Waiting: 0
+Teleports: 1 (Collisions: 1)
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 113.00
+ WaitingTime: 14.37
+ TimeLoss: 36.76
+ DepartDelay: 2.80
+
+Could not connect to TraCI server at localhost:43350 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 59925 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3728.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 955ms
+ Real time factor: 3903.66
+ UPS: 155814.659686
+Vehicles: 
+ Inserted: 1294
+ Running: 0
+ Waiting: 0
+Emergency Stops: 14
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.99
+ WaitingTime: 15.65
+ TimeLoss: 38.75
+ DepartDelay: 2.52
+
+Could not connect to TraCI server at localhost:59925 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 33322 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3720.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 993ms
+ Real time factor: 3746.22
+ UPS: 157106.747231
+Vehicles: 
+ Inserted: 1357
+ Running: 0
+ Waiting: 0
+Emergency Stops: 19
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.96
+ WaitingTime: 15.77
+ TimeLoss: 38.72
+ DepartDelay: 3.10
+
+Could not connect to TraCI server at localhost:33322 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 37630 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 998ms
+ Real time factor: 3732.46
+ UPS: 144163.326653
+Vehicles: 
+ Inserted: 1264
+ Running: 0
+ Waiting: 0
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 113.83
+ WaitingTime: 14.87
+ TimeLoss: 37.58
+ DepartDelay: 2.49
+
+Could not connect to TraCI server at localhost:37630 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 39451 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (1ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1013ms
+ Real time factor: 3677.2
+ UPS: 147821.322804
+Vehicles: 
+ Inserted: 1305
+ Running: 0
+ Waiting: 0
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.75
+ WaitingTime: 15.51
+ TimeLoss: 38.49
+ DepartDelay: 2.52
+
+Could not connect to TraCI server at localhost:39451 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46732 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3730.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1039ms
+ Real time factor: 3589.99
+ UPS: 148948.989413
+Vehicles: 
+ Inserted: 1348
+ Running: 0
+ Waiting: 0
+Emergency Stops: 9
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.81
+ WaitingTime: 15.38
+ TimeLoss: 38.56
+ DepartDelay: 3.05
+
+Could not connect to TraCI server at localhost:46732 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 43542 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3778.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1012ms
+ Real time factor: 3733.2
+ UPS: 146551.383399
+Vehicles: 
+ Inserted: 1285
+ Running: 0
+ Waiting: 0
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.42
+ WaitingTime: 16.22
+ TimeLoss: 39.19
+ DepartDelay: 2.55
+
+Could not connect to TraCI server at localhost:43542 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 46806 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3728.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 944ms
+ Real time factor: 3949.15
+ UPS: 159151.483051
+Vehicles: 
+ Inserted: 1323
+ Running: 0
+ Waiting: 0
+Emergency Stops: 10
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 113.56
+ WaitingTime: 14.55
+ TimeLoss: 37.32
+ DepartDelay: 2.67
+
+Could not connect to TraCI server at localhost:46806 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 55976 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3723.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 978ms
+ Real time factor: 3806.75
+ UPS: 160307.770961
+Vehicles: 
+ Inserted: 1362
+ Running: 0
+ Waiting: 0
+Emergency Stops: 18
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.11
+ WaitingTime: 15.83
+ TimeLoss: 38.87
+ DepartDelay: 3.55
+
+Could not connect to TraCI server at localhost:55976 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 57085 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3727.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 985ms
+ Real time factor: 3783.76
+ UPS: 153514.720812
+Vehicles: 
+ Inserted: 1306
+ Running: 0
+ Waiting: 0
+Emergency Stops: 13
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.78
+ WaitingTime: 16.39
+ TimeLoss: 39.56
+ DepartDelay: 2.50
+
+Could not connect to TraCI server at localhost:57085 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 58810 ***
+Loading net-file from 'data/cross.net.xml'... done (2ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3725.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 995ms
+ Real time factor: 3743.72
+ UPS: 153607.035176
+Vehicles: 
+ Inserted: 1326
+ Running: 0
+ Waiting: 0
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 115.26
+ WaitingTime: 15.89
+ TimeLoss: 39.02
+ DepartDelay: 2.70
+
+Could not connect to TraCI server at localhost:58810 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 45621 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3733.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 934ms
+ Real time factor: 3996.79
+ UPS: 157723.768737
+Vehicles: 
+ Inserted: 1282
+ Running: 0
+ Waiting: 0
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.91
+ WaitingTime: 15.64
+ TimeLoss: 38.67
+ DepartDelay: 2.32
+
+Could not connect to TraCI server at localhost:45621 [Errno 111] Connection refused
+ Retrying in 1 seconds
+Loading configuration... done.
+***Starting server on port 42502 ***
+Loading net-file from 'data/cross.net.xml'... done (1ms).
+Loading additional-files from 'data/cross.det.xml'... done (0ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 3719.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 997ms
+ Real time factor: 3730.19
+ UPS: 147976.930792
+Vehicles: 
+ Inserted: 1292
+ Running: 0
+ Waiting: 0
+Emergency Stops: 22
+Statistics (avg):
+ RouteLength: 1015.10
+ Duration: 114.19
+ WaitingTime: 15.03
+ TimeLoss: 37.96
+ DepartDelay: 2.60
+
+Could not connect to TraCI server at localhost:42502 [Errno 111] Connection refused
+ Retrying in 1 seconds

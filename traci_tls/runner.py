@@ -23,6 +23,7 @@ import optparse
 import subprocess
 import random
 import math
+import argparse
 
 # we need to import python modules from the $SUMO_HOME/tools directory
 try:
@@ -41,17 +42,17 @@ TIMEOUT = 60
 R = 100
 
 def generate_routefile():
-    random.seed(42)  # make tests reproducible
+    random.seed()  # make tests reproducible
     N = 3600  # number of time steps
     # demand per second from different directions
-    pWE = 1. / 10
+    pWE = 1. / 11
     pEW = 1. / 11
-    pNS = 1. / 30
-    pSN = 1. / 30
+    pNS = 1. / 11
+    pSN = 1. / 11
     with open("data/cross.rou.xml", "w") as routes:
         print("""<routes>
         <vType id="typeWE" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="16.67" guiShape="passenger"/>
-        <vType id="typeNS" accel="0.8" decel="4.5" sigma="0.5" length="7" minGap="3" maxSpeed="25" guiShape="bus"/>
+        <vType id="typeNS" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="16.67" guiShape="passenger"/>
 
         <route id="right" edges="51o 1i 2o 52i" />
         <route id="up" edges="53o 3i 4o 54i" />
@@ -61,22 +62,22 @@ def generate_routefile():
         vehNr = 0
         for i in range(N):
             if random.uniform(0, 1) < pWE:
-                print('    <vehicle id="right_%i" type="typeWE" route="right" depart="%i" />' % (
+                print('    <vehicle id="right_%i" type="typeWE" route="right" depart="%i" color="0,1,1"/>' % (
                     vehNr, i), file=routes)
                 vehNr += 1
                 lastVeh = i
             if random.uniform(0, 1) < pEW:
-                print('    <vehicle id="left_%i" type="typeWE" route="left" depart="%i" />' % (
+                print('    <vehicle id="left_%i" type="typeWE" route="left" depart="%i" color="0,1,1"/>' % (
                     vehNr, i), file=routes)
                 vehNr += 1
                 lastVeh = i
             if random.uniform(0, 1) < pNS:
-                print('    <vehicle id="down_%i" type="typeNS" route="down" depart="%i" color="1,0,0"/>' % (
+                print('    <vehicle id="down_%i" type="typeNS" route="down" depart="%i" color="0,1,1"/>' % (
                     vehNr, i), file=routes)
                 vehNr += 1
                 lastVeh = i
             if random.uniform(0, 1) < pSN:
-                print('    <vehicle id="up_%i" type="typeNS" route="up" depart="%i" color="1,0,0"/>' % (
+                print('    <vehicle id="up_%i" type="typeNS" route="up" depart="%i" color="0,1,1"/>' % (
                     vehNr, i), file=routes)
                 vehNr += 1
                 lastVeh = i
@@ -94,9 +95,24 @@ def generate_routefile():
 
     
 def calc_dist(active_list, direction = None):
-   
-    distances = []
+
+    ## shorten the active list to only cars heading toward the intersection.
+    incoming_list = []
     for car in active_list:
+        pos = traci.vehicle.getPosition(car)
+        if 'up' in car and pos[1] > 510:
+            continue ##dont add to the incoming list
+        elif 'down' in car and pos[1] < 510:
+            continue ##dont add to the incoming list
+        elif 'right' in car and pos[0] > 510:
+            continue ##dont add to the incoming list
+        elif 'left' in car and pos[0] < 510:
+            continue ##dont add to the incoming list
+        else:
+            incoming_list.append(car)
+             
+    distances = []
+    for car in incoming_list:
         pos = traci.vehicle.getPosition(car)
         dist = math.sqrt((pos[0] - 510)**2 + (pos[1] - 510)**2) 
             ##print(car,pos,dist)
@@ -111,17 +127,17 @@ def calc_dist(active_list, direction = None):
 
     #print(distances2)    
     distances = sorted(distances,key=lambda x:x[1])
-    print("__________________")
+    #print("__________________")
 
     if direction == None:
         return distances[0]
     elif direction == 'UD':
         #return distances
         return next(x for x in distances if "left" in x[0] or "right" in x[0])
+        
     elif direction == 'LR':
         #return distances
         return next(x for x in distances if "up" in x[0] or "down" in x[0])
-
     
     
 def elect_leader(active_list):
@@ -144,24 +160,38 @@ def run():
     #print(traci.simulation.getPosition("0"))
     
     while traci.simulation.getMinExpectedNumber() > 0:
+        #print(traci.simulation.getCurrentTime(),'this is current time')
+        #print(step)
         traci.simulationStep()
 
+        '''
+        ## basecase simulation
+        if step%TIMEOUT == 0:
+            if step%(TIMEOUT*2) == 0:
+                traci.trafficlight.setPhase("0", 0)
+            else:
+                traci.trafficlight.setPhase("0", 1)
+            
+        '''
+        ## smart intersection with leader
         ##active list generation##
         active_list = active_list.union(set(traci.simulation.getDepartedIDList()))
         arrived_list = set(traci.simulation.getArrivedIDList())
         for car in active_list.intersection(arrived_list):
             active_list.remove(car)
 
-        if calc_dist(active_list)[1] < R and bootstrap:
+        #print(active_list)
+            
+        if len(active_list) >= 1 and bootstrap and calc_dist(active_list)[1] < R:
             leader_id = calc_dist(active_list)[0]
             bootstrap = False
             #######
             #Uncomment this to change colour (I think)
             #######
-            #traci.vehicle.setColor(leader_id, (250, 0, 0))
-            print(leader_id)
+            traci.vehicle.setColor(leader_id, (255, 0, 0, 255))
+            #print(leader_id)
             
-        if not bootstrap:
+        if not bootstrap and step < 3600:
             ## calculate perpendicular closest car distance
             perp = 0
             if "up" in leader_id or "down" in leader_id:
@@ -173,23 +203,30 @@ def run():
 
             ## check if new leader time
             if perp > R or timeout <= 0:
+                ## set old leader back to regular color
+                traci.vehicle.setColor(leader_id, (0, 255, 255, 255))
+
+                ## pick a new leader
                 if "up" in leader_id or "down" in leader_id:
                     leader_id = calc_dist(active_list,"UD")[0]
                     traci.trafficlight.setPhase("0", 0)
                     #######
                     #Uncomment this to change colour (I think)
                     #######
-                    #traci.vehicle.setColor(leader_id, (250, 0, 0))
+                    traci.vehicle.setColor(leader_id, (255, 0, 0, 255))
                 else:
                     leader_id = calc_dist(active_list,"LR")[0]
                     traci.trafficlight.setPhase("0", 1)
                     #######
                     #Uncomment this to change colour (I think)
                     #######
-                    #traci.vehicle.setColor(leader_id, (250, 0, 0))
+                    traci.vehicle.setColor(leader_id, (255, 0, 0, 255))
 
                 timeout = TIMEOUT
-                print(leader_id)
+                #print(leader_id)
+        
+
+
         '''
         if len(active_list) > 0 and leader == None:
             leader_id = elect_leader(active_list)
@@ -221,6 +258,11 @@ def get_options():
 
 # this is the main entry point of this script
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="takes a file number for the output file")
+    parser.add_argument('num', type=int, help='output file number')
+    args = parser.parse_args()
+
+    
     options = get_options()
 
     # this script has been called from the command line. It will start sumo as a
@@ -229,12 +271,13 @@ if __name__ == "__main__":
         sumoBinary = checkBinary('sumo')
     else:
         sumoBinary = checkBinary('sumo-gui')
-
+    
     # first, generate the route file for this simulation
     generate_routefile()
 
     # this is the normal way of using traci. sumo is started as a
     # subprocess and then the python script connects and runs
+    filename = "output/tripinfo" + str(args.num) + ".xml"
     traci.start([sumoBinary, "-c", "data/cross.sumocfg",
-                             "--tripinfo-output", "tripinfo.xml"])
+                             "--tripinfo-output", filename])
     run()
